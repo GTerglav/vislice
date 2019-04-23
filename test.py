@@ -13,10 +13,8 @@ def je_prastevilo(n):
 #       x +=1
 #       if je_prastevilo(x):
 #            sez.append(x)
-#    return sez
+#    return sezggegGEQgeqGEQQEGgqe
         
 for i in range(2, 201):
     if je_prastevilo(i):
         print(i)
-
-wgewGWggwegewegwqeg
