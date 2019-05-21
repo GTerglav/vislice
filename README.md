@@ -1,11 +1,6 @@
-# vislice
-Učni projektpri **UVP**
+# Vislice
+Repozitorij za skupni projekt Vislice
 
 
-## Znani slovenski matematiki
-
-- Jurij Vega
-- Matija Pretnar
-- Andrej Bauer
 
 
